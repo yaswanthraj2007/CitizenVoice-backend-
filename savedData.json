@@ -1,0 +1,44 @@
+[
+  {
+    "office": "Post office ManaMadurai",
+    "district": "Sivaganga",
+    "score": 4.9
+  },
+  {
+    "office": "Taluk & Thasildar office,Uthamapalayam",
+    "district": "Theni",
+    "score": 4.8
+  },
+  {
+    "office": "TN GOVT - Secretariat HRD",
+    "district": "Chennai",
+    "score": 4.3
+  },
+  {
+    "office": "Musiri Police Station",
+    "district": "Tiruchirapalli",
+    "score": 4.2
+  },
+  {
+    "office": "District collector office",
+    "district": "Salem",
+    "score": 4.2
+  },
+  {
+    "office": "GOVT Hospital",
+    "district": "Tirunelveli",
+    "score": 3.5
+  },
+  {
+    "office": "GOVT Hospital",
+    "district": "Madurai",
+    "score": 3.1
+  },
+  {
+    "office": "Judicial Magistrate Court, Tirumangalm",
+    "district": "Madurai",
+    "score": 3.7,
+    "anonymous": true,
+    "reviewText": "it was good and bad"
+  }
+]
